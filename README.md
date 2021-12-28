@@ -1,5 +1,5 @@
 
-
+## Intuitive Geek
 ### Findeo
 
 An engaging education marketplace where high school students can explore careers and find educational options based on their profile and interests.  Sifting through thousands of educational options is a daunting task, especially for low-income and first-generation students who may not have the access to informed parents or family members. In addition to the traditional Colleges our solution surfaces viable educational options such as online education,hybrid,and apprenticeshipsthat may otherwise go unnoticed by the student. 
